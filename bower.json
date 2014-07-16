@@ -1,0 +1,29 @@
+{
+  "name": "Ambidex",
+  "version": "0.0.1",
+  "authors": [
+    "Byron Samaripa <Byron.Samaripa@colorado.edu>"
+  ],
+  "description": "A pokedex for the REST of us",
+  "main": "server.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "restful",
+    "api",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bsamaripa/ambidex",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

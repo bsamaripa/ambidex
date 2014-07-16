@@ -1,0 +1,14 @@
+*.gz
+*.bz
+*.tar
+*.zip
+*.log
+*.csv
+*.bin
+*.out
+*.pid
+*.seed
+node_modules
+public/libs
+*/.bin
+misc/

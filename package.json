@@ -1,0 +1,35 @@
+{
+  "name": "Ambidex",
+  "version": "0.0.1",
+  "description": "A pokedex for the REST of us",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsamaripa/ambidex"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "restful",
+    "api",
+    "node"
+  ],
+  "author": "Byron Samaripa <Byron.Samaripa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsamaripa/ambidex/issues"
+  },
+  "homepage": "https://github.com/bsamaripa/ambidex",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "forever": "^0.11.1",
+    "mocha": "^1.20.1",
+    "nodemon": "^1.2.1"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}

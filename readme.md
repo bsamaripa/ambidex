@@ -1,6 +1,5 @@
 Ambidex
 =========
-
 A Pokedex for the REST of us
 
 Team
